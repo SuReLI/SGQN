@@ -1,0 +1,14 @@
+absl-py
+pyparsing
+numpy==1.19.5
+pillow
+termcolor
+imageio
+imageio-ffmpeg
+opencv-python
+xmltodict
+tqdm
+einops
+kornia
+captum
+tensorboard
